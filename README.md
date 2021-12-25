@@ -24,3 +24,5 @@ I was scared of registering on Codewars. But she managed to solve the problem. T
   `return a * b`  
   
 `}`
+
+ 
