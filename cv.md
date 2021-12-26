@@ -1,5 +1,5 @@
 # rsschool-cv
-Ekaterina Malaschitskaya  [![person](/person.png)]
+Ekaterina Malaschitskaya  ![person](/person.jpg)]
 ============
 
 |Call me  |Clik here and you can Write me  |
