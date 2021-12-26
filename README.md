@@ -1,10 +1,10 @@
 # rsschool-cv
 This repository contain code for RS School Tasks:
 
--   [Markdown & Git]
+-   Markdown & Git
 
 # my cv deploy:  
-https://Andreeva12.github.io/rsschool-cv/
+https://Andreeva12.github.io/rsschool-cv/cv
 
 <p>
   
