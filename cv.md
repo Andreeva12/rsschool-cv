@@ -12,7 +12,7 @@ I have no experience, but I'm ready to start from scratch. I'm sure I'm gaining 
 ***
 I was scared of registering on Codewars. But she managed to solve the problem. The task was this: We need to understand why this code is incorrect.
 <p>The same code:
-  
+   
   `function``multiply(a, b){`
 
 `a * b`
