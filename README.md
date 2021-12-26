@@ -8,4 +8,4 @@ https://Andreeva12.github.io/rsschool-cv/cv
 
 <p>
   
-  ![0cv](0cv.jpg)
+  ![1cv](1cv.jpg)
