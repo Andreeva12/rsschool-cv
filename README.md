@@ -1,3 +1,3 @@
 # rsschool-cv
 <p>https://Andreeva12.github.io/rsschool-cv/cv</p>
-<p>https://Andreeva12.github.io/rsschool-cv/first</p>
+<p>https://Andreeva12.github.io/rsschool-cv/to2</p>
