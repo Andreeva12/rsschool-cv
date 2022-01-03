@@ -7,4 +7,4 @@ This repository contain code for RS School Tasks:
 https://Andreeva12.github.io/rsschool-cv/cv
 
 <p>
-  https://Andreeva12.github.io/rsschool-cv/tree/rsschool-cv-html/rsschool-cv
+  https://github.com/Andreeva12/rsschool-cv/blob/rsschool-cv-html/rsschool-cv/index.html
