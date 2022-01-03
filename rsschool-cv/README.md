@@ -7,5 +7,4 @@ This repository contain code for RS School Tasks:
 https://Andreeva12.github.io/rsschool-cv/cv
 
 <p>
-  
-  ![1cv](1cv.jpg)
+  https://Andreeva12.github.io/rsschool-cv/
